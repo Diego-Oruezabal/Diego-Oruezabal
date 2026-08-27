@@ -2,7 +2,7 @@
 
 Profesional con más de diez años de experiencia en **dirección, operaciones, calidad y mejora de procesos**, actualmente orientando mi trayectoria hacia **Cloud, DevOps y ciberseguridad**.
 
-Mi perfil combina formación empresarial —**ADE y MBA**— con **Desarrollo de Aplicaciones Web**. Me interesa transformar necesidades reales de negocio en soluciones tecnológicas seguras, documentadas y medibles.
+Mi perfil combina formación empresarial —**ADE y MBA**— con **Desarrollo de Aplicaciones Web**. Construyo aplicaciones partiendo del problema que deben resolver: cumplimiento, eficiencia operativa, mejor información para decidir y una experiencia de usuario clara.
 
 [English version](#english-version)
 
@@ -18,15 +18,29 @@ Mi perfil combina formación empresarial —**ADE y MBA**— con **Desarrollo de
 ## Tecnologías
 
 **Desarrollo:** PHP, Laravel, Java, Spring, JavaScript, TypeScript, React y Next.js  
-**Datos:** SQL, MySQL y Prisma  
+**Datos:** SQL, MySQL, PostgreSQL y Prisma  
 **Sistemas y cloud:** Linux, Bash, AWS, Docker y GitHub Actions  
 **En aprendizaje:** Terraform, CI/CD, arquitectura cloud y Cloud Security
 
-## Proyectos destacados
+## Proyectos destacados: problemas y beneficios
 
-- **[Asistencias](https://github.com/Diego-Oruezabal/asistencias):** aplicación empresarial en Laravel y MySQL para gestionar empleados, departamentos, sucursales, roles, registros e informes.
-- **[Pennywise](https://github.com/Diego-Oruezabal/pennywise):** aplicación Laravel orientada a la gestión financiera, con autenticación, control de acceso y pruebas.
-- **[TechView](https://github.com/Diego-Oruezabal/techview):** proyecto desarrollado con Next.js, TypeScript, React, Prisma, Clerk y Zod.
+### [Asistencias](https://github.com/Diego-Oruezabal/asistencias)
+
+**Problema:** las empresas necesitan cumplir con el registro obligatorio de la jornada y, al mismo tiempo, controlar entradas, salidas y pausas de empleados distribuidos entre distintas sucursales y departamentos.
+
+**Solución y beneficios:** centraliza el registro de asistencia, la estructura organizativa, los roles y los informes en una aplicación Laravel y MySQL. Mejora la trazabilidad, facilita la supervisión diaria y la generación de evidencias para el cumplimiento legal y las auditorías, reduce registros manuales y evita depender de hardware biométrico.
+
+### [PennyWise](https://github.com/Diego-Oruezabal/pennywise)
+
+**Problema:** gestionar gastos, presupuestos y objetivos en herramientas separadas dificulta saber cuánto se puede gastar o ahorrar y genera incertidumbre al tomar decisiones financieras personales.
+
+**Solución y beneficios:** aplicación Laravel en desarrollo que reúne presupuestos y objetivos financieros en un panel privado, con autenticación y verificación de correo. Busca ofrecer una visión más clara de las finanzas, facilitar la planificación y ayudar a detectar desviaciones antes de que afecten a los objetivos de ahorro.
+
+### [TechView](https://github.com/Diego-Oruezabal/techview)
+
+**Problema:** preparar entrevistas técnicas sin una práctica estructurada dificulta adaptar las preguntas al puesto, medir el progreso y aprender de entrevistas anteriores.
+
+**Solución y beneficios:** prototipo construido con Next.js, TypeScript, Prisma y Clerk para organizar simulaciones por rol y nivel, conservar entrevistas y transcripciones y visualizar métricas desde un dashboard. Ayuda a convertir una preparación dispersa en un proceso repetible, personalizado y orientado a la mejora.
 
 ## Certificaciones
 
@@ -41,7 +55,7 @@ Quiero trabajar en el punto de encuentro entre:
 
 > **negocio + tecnología + cloud + seguridad + cumplimiento**
 
-Mi objetivo es diseñar y construir soluciones cloud que no solo funcionen, sino que también sean seguras, observables, documentadas y alineadas con necesidades empresariales reales.
+Mi objetivo es diseñar y construir soluciones cloud que no solo funcionen, sino que también resuelvan problemas reales, reduzcan riesgos, mejoren procesos y produzcan resultados observables.
 
 ---
 
@@ -49,7 +63,7 @@ Mi objetivo es diseñar y construir soluciones cloud que no solo funcionen, sino
 
 I am a professional with more than ten years of experience in **management, operations, quality and process improvement**, currently transitioning towards **Cloud, DevOps and cybersecurity**.
 
-My background combines business education —a **Business Administration degree and an MBA**— with a qualification in **Web Application Development**. I enjoy turning real business needs into secure, documented and measurable technology solutions.
+My background combines business education —a **Business Administration degree and an MBA**— with a qualification in **Web Application Development**. I build applications by starting with the problem they need to solve: compliance, operational efficiency, better information for decision-making and a clear user experience.
 
 ## About me
 
@@ -63,15 +77,29 @@ My background combines business education —a **Business Administration degree 
 ## Technologies
 
 **Development:** PHP, Laravel, Java, Spring, JavaScript, TypeScript, React and Next.js  
-**Data:** SQL, MySQL and Prisma  
+**Data:** SQL, MySQL, PostgreSQL and Prisma  
 **Systems and cloud:** Linux, Bash, AWS, Docker and GitHub Actions  
 **Currently learning:** Terraform, CI/CD, cloud architecture and Cloud Security
 
-## Featured projects
+## Featured projects: problems and benefits
 
-- **[Asistencias](https://github.com/Diego-Oruezabal/asistencias):** Laravel and MySQL business application for managing employees, departments, branches, roles, attendance records and reports.
-- **[Pennywise](https://github.com/Diego-Oruezabal/pennywise):** Laravel financial-management application featuring authentication, access control and tests.
-- **[TechView](https://github.com/Diego-Oruezabal/techview):** project built with Next.js, TypeScript, React, Prisma, Clerk and Zod.
+### [Asistencias](https://github.com/Diego-Oruezabal/asistencias)
+
+**Problem:** companies need to comply with mandatory working-time records while controlling employee check-ins, check-outs and breaks across multiple branches and departments.
+
+**Solution and benefits:** centralises attendance records, organisational structure, roles and reporting in a Laravel and MySQL application. It improves traceability, supports day-to-day supervision and the production of evidence for legal compliance and audits, reduces manual records and removes the need for biometric hardware.
+
+### [PennyWise](https://github.com/Diego-Oruezabal/pennywise)
+
+**Problem:** managing expenses, budgets and goals across separate tools makes it difficult to understand how much can be spent or saved and creates uncertainty in personal financial decisions.
+
+**Solution and benefits:** a Laravel application under development that brings budgets and financial goals together in a private dashboard with authentication and email verification. It aims to provide a clearer financial overview, support planning and help identify deviations before they affect savings goals.
+
+### [TechView](https://github.com/Diego-Oruezabal/techview)
+
+**Problem:** preparing for technical interviews without a structured practice process makes it difficult to tailor questions to a role, measure progress and learn from previous interviews.
+
+**Solution and benefits:** a prototype built with Next.js, TypeScript, Prisma and Clerk to organise mock interviews by role and level, retain interview history and transcripts, and display progress metrics through a dashboard. It turns scattered preparation into a repeatable, personalised and improvement-oriented process.
 
 ## Certifications
 
@@ -86,4 +114,4 @@ I want to work at the intersection of:
 
 > **business + technology + cloud + security + compliance**
 
-My goal is to design and build cloud solutions that are not only functional, but also secure, observable, well documented and aligned with real business needs.
+My goal is to design and build cloud solutions that not only work, but also solve real problems, reduce risk, improve processes and produce observable outcomes.
